@@ -5,13 +5,13 @@ export default function Home() {
   return (
     <div>
       {/* 이름 출력 */}
-      <div>조만기</div>
+      <h1>조만기</h1>
       
       {/* 학번 출력 */}
-      <div>202030133</div>
+      <h1>202030133</h1>
 
       {/* 경로 출력 */}
-      <div>src/app/page.js</div>
+      <h1>src/app/page.js</h1>
     </div>
   );
 }
